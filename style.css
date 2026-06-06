@@ -1,0 +1,9 @@
+/* Contractor / Roofing — Color overrides only. All structure in _shared/ */
+@import url('css/base.css');
+@import url('css/components.css');
+
+:root {
+  --clr-primary:    #b45309;
+  --clr-primary-dk: #8a3f07;
+  --clr-accent:     #1e4d8c;
+}
